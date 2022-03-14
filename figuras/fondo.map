@@ -1,0 +1,11 @@
+<img src="[fondo] (importada)" width="728" height="409" border="0" usemap="#map" />
+
+<map name="map">
+<area shape="rect" coords="40,40,146,97" href="fragata.html" />
+<area shape="poly" coords="36,207,25,166,215,53,306,52,315,178,36,205,24,165,30,182,30,178" href="destructor.html" />
+<area shape="poly" coords="86,374,54,292,320,190,393,32,495,197,352,282" href="acorazado.html" />
+<area shape="poly" coords="540,394,598,319,722,273,722,389" href="corbeta.html" />
+<area shape="poly" coords="647,287,715,235,672,140,518,93,514,180,619,275" href="html/portaaviones.html" />
+<area shape="poly" coords="657,132,563,101,605,40,704,71,710,131" href="crucero.html" />
+<area shape="rect" coords="434,21,481,48" href="boton.html" />
+</map>
